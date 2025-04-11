@@ -1,0 +1,28 @@
+✅ Your **COVID-19 Country-wise Dataset** is ready!  
+You can download it from here:
+
+📥 [Download COVID19_Countrywise_Analysis.csv]
+### 🧪 What You Can Do With This Dataset:
+
+#### ✅ **Step-by-Step Tasks:**
+1. Load the CSV using `pd.read_csv()`
+2. Check `df.info()` and `df.describe()`
+3. Plot:
+   - Top 5 countries by confirmed cases → Bar plot
+   - Top 5 countries by death rate (deaths / confirmed) → Bar plot
+   - Correlation heatmap using `seaborn.heatmap()`
+   - Pie chart for confirmed cases share per country
+
+#### 🔧 Optional Challenges:
+- Find the country with **highest recovery rate**
+- Show a **scatter plot** of Confirmed vs Deaths
+- Color countries in bar chart based on death rate using Seaborn hue
+
+---
+
+Let me know if you want:
+- A starter code template for this
+- Another dataset/project idea
+- Help with visualizations using Seaborn/Matplotlib
+
+> Ab aap is dataset par analysis shuru kar sakte ho. Agar code chahiye toh main turant likh ke deta hoon.
